@@ -1,0 +1,44 @@
+.main {
+  background: rgba(68, 0, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.resume {
+  width: 21cm;
+  min-height: 29.7cm;
+  margin: 1cm auto;
+  display: flex;
+}
+
+.pfp {
+  display: flex;
+  justify-content: center;
+}
+
+.left {
+  background-color: #272928;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 30px;
+  color: white;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px;
+  margin-top: 50px;
+  align-items: flex-start;
+}
+
+.leftTitle {
+  color: #44b2f4;
+}
+
+.line {
+  display: flex;
+}

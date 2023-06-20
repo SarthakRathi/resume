@@ -3,13 +3,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 21cm;
+  min-height: 29.7cm;
+  margin: 10px auto;
 }
 
 .resume {
-  width: 21cm;
-  min-height: 29.7cm;
-  margin: 1cm auto;
   display: flex;
+  align-items: center;
 }
 
 .pfp {
